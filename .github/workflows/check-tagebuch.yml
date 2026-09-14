@@ -1,0 +1,26 @@
+name: Lerntagebuch Check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check-entries:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prüfe, dass alle Tagebuch-Einträge vorhanden und nicht leer sind
+        run: |
+          for f in README.md tag1.md tag2.md tag3.md tag4.md tag5.md tag6.md tag7.md; do
+            if [ ! -f "$f" ]; then
+              echo "Fehlt: $f"
+              exit 1
+            fi
+            if [ ! -s "$f" ]; then
+              echo "Leer: $f"
+              exit 1
+            fi
+            echo "OK: $f"
+          done
+          echo "Alle sieben Einträge + README vorhanden und nicht leer."
