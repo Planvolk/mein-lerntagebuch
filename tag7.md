@@ -11,4 +11,4 @@ Die "Cross-Referenz-Ansicht" aus meinem UX Design Briefing (Screen 2) als kleine
 
 ---
 
-**Lerneffekt zum Schluss:** Aufschub ist der Dieb der Zeit, heißt es — und der hat sich diese Woche redlich bedient. Diese sieben Einträge spiegeln sieben echte, unterschiedliche Lernschritte aus meiner ersten Bootcamp-Woche wider — sie wurden aber gesammelt nachgetragen statt strikt an sieben Kalendertagen einzeln committet, weil ich mit den Abgaben in Verzug war. Die Inhalte sind trotzdem ehrlich und eigenständig, nicht rückwirkend erfunden. Morgenstund hat Gold im Mund, sagt man — meine Münze diese Woche war eher aus der späten Abendstunde. Aber: Not macht erfinderisch, und am Ende steht ein vollständiges, ehrliches Tagebuch. Nächstes Mal mit mehr Vorsprung, versprochen.
+*Anmerkung: Diese sieben Einträge spiegeln sieben echte, unterschiedliche Lernschritte aus meiner ersten Bootcamp-Woche wider — sie wurden aber gesammelt nachgetragen statt strikt an sieben Kalendertagen einzeln committet, weil ich mit den Abgaben in Verzug war. Die Inhalte sind trotzdem ehrlich und eigenständig, nicht rückwirkend erfunden.*
